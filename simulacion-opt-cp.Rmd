@@ -7,8 +7,7 @@ output: html_document
 
 A continuacion presentamos la simulacion para encontrar el numero optimo de centros poblados.
 
-Las formuals para dereivar el efecto de dise\~no son una combianci\'on \u{F1} de
- @fenner2012a and el manual del Banco Mundial
+Las formulas para dereivar el efecto de diseno son una combiancion  de @fenner2012a and el manual del Banco Mundial
 
 
 
